@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ObjectMoveHangman.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="41" Column="40" />
+      <File FileName="Assets\Scripts\ObjectOnClick.cs" Line="19" Column="4" />
+      <File FileName="Assets\Scripts\ObjectMoveHangman.cs" Line="18" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
