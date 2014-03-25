@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameState.js">
+    <Files>
+      <File FileName="Assets\Scripts\AlphabetGame.js" Line="20" Column="66" />
+      <File FileName="Assets\Scripts\Spawner.js" Line="11" Column="21" />
+      <File FileName="Assets\Scripts\SpawnController.js" Line="17" Column="26" />
+      <File FileName="Assets\Scripts\ClickAndDrag.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Alphabet.js" Line="7" Column="71" />
+      <File FileName="Assets\Scripts\GameState.js" Line="5" Column="20" />
+      <File FileName="Assets\Scripts\Restart.js" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
