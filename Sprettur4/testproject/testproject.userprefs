@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScriptsTests\SpawnControllerTest.js">
+    <Files>
+      <File FileName="Assets\ScriptsTests\SpawnerTest.js" Line="5" Column="37" />
+      <File FileName="Assets\Scripts\GameState.js" Line="10" Column="2" />
+      <File FileName="Assets\ScriptsTests\GameStateTest.js" Line="22" Column="6" />
+      <File FileName="Assets\ScriptsTests\AlphabetTest.js" Line="32" Column="74" />
+      <File FileName="Assets\ScriptsTests\Unity3D_TestRunner.js" Line="9" Column="28" />
+      <File FileName="Assets\Scripts\Restart.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnController.js" Line="1" Column="1" />
+      <File FileName="Assets\ScriptsTests\SpawnControllerTest.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
